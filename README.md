@@ -1,4 +1,4 @@
-# 💳 German Credit Risk Classification 💳
+# 💳 German Credit Risk Analysis 💳
 
 ![Alt Text](https://i2.wp.com/thepointsguy.com/wp-content/uploads/2029/04/TPG-UK-Launch-CardsFanning-02.gif?width=2000&height=1050&attachment_id=682385&ssl=1)
 
@@ -21,18 +21,17 @@ For Visualization
  *	Plotly
 
 The library requirements specific to some methods are:
- *  DecisionTree Model
- *	GradientBoosting Model
- *	XGBoost Model
- *	LightGBM Model
+ *  DecisionTree 
+ *	GradientBoosting 
+ *	XGBoost 
+ *	LightGBM 
 
 ## Content
 
 It's a classic dataset of Good and Bad Loans
 
-* Import Module and Data
+* Import Modules and Data
 * Data Analysis
-* Data Classification
 * Data Visualization
 * Data Preprocessing
 * Building Models
